@@ -2,8 +2,6 @@
 <h3 align="center">A Data science Student at UCLM3 </h3>
 
 # I’m currently learning Flask 
-<br>
-<br>
 <img align="left" alt="Flask" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" style="padding-right:10px;" />
 
  
