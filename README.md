@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Daniel Totolici</h1>
 <h3 align="center">A Data science Student at UCLM3 </h3>
 
-### All of my projects are available at [My Portfolio](https://www.rishavnandi.com)
+### All of my projects are available at [My Portfolio](https://)
 ### Connect with me: [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mail@egomirror115.com)
 
 
