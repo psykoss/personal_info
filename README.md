@@ -15,7 +15,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 # GitHub Stats
-<img align="center" src="https:///github-readme-stats-nine-coral-57.vercel.app/api/top-langs/?username=psykoss&layout=compact&langs_count=10&hide=jupyter%20notebook&theme=dark&hide_border=true" /> 
+<img align="center" src="https:///github-readme-stats-nine-coral-57.vercel.app/api/top-langs/?username=psykoss" /> 
 <img align="center" src="https:///github-readme-stats-nine-coral-57.vercel.app/api?username=psykoss&show_icons=true&theme=dark&locale=en&hide_border=true" alt="Daniel Totolici" /> 
 
 # Socials
