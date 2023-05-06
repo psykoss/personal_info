@@ -1,9 +1,12 @@
 <h1 align="center">Hi, I'm Daniel Totolici aka Psykoss</h1>
 <h3 align="center">A Data science Student at UCLM3 </h3>
-<h3 align="center">I’m currently learning <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" style="padding-right:10px;" /></h3>
+<h3 align="center">All of my projects are available at [My Portfolio](https://) </h3> 
+
+
+<h2>I’m currently learning <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" style="padding-right:10px;" /></h2>
 
 - 
-- All of my projects are available at [My Portfolio](https://)
+-
 
 - How to reach me [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mail@egomirror115.com)
 
