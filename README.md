@@ -15,9 +15,8 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 # GitHub Stats
-    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=psykoss)](https://github.com/anuraghazra/github-readme-stats)
-    <img align="center" src="https:///github-readme-stats-nine-coral-57.vercel.app/api/top-langs/?username=psykoss&layout=compact&langs_count=10&hide=jupyter%20notebook&theme=dark&hide_border=true" /> 
-    <img align="center" src="https:///github-readme-stats-nine-coral-57.vercel.app/api?username=psykoss&show_icons=true&theme=dark&locale=en&hide_border=true" alt="Daniel Totolici" /> 
+<img align="center" src="https:///github-readme-stats-nine-coral-57.vercel.app/api/top-langs/?username=psykoss&layout=compact&langs_count=10&hide=jupyter%20notebook&theme=dark&hide_border=true" /> 
+<img align="center" src="https:///github-readme-stats-nine-coral-57.vercel.app/api?username=psykoss&show_icons=true&theme=dark&locale=en&hide_border=true" alt="Daniel Totolici" /> 
 
 # Socials
 [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://)
