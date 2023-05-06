@@ -4,6 +4,8 @@
 # I’m currently learning Flask 
 <img align="left" alt="Flask" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" style="padding-right:10px;" />
 <br>
+<br>
+
  
 # Tech Stack
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
