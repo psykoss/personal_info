@@ -1,6 +1,10 @@
 <h1 align="center">Hi, I'm Daniel Totolici</h1>
 <h3 align="center">A Data science Student at UCLM3 </h3>
 
+### All of my projects are available at [My Portfolio](https://www.rishavnandi.com)
+### Connect with me: [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mail@egomirror115.com)
+
+
 # I’m currently learning
 <img align="left" alt="Flask" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Flask" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" style="padding-right:10px;" />
@@ -11,7 +15,6 @@
 <br>
 <br>
 
-### Connect with me: [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mail@egomirror115.com)
 
 
 # Tech Stack
