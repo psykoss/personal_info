@@ -19,7 +19,11 @@
 
 # GitHub Stats
 <summary>:zap: GitHub Stats</summary>
-[<img align="left" alt="Psykoss GitHub Stats" src="https://github-readme-stats-nine-coral-57.vercel.app/api?username=psykoss&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />]
+[<img align="left" alt="Psykoss GitHub Stats" src="https://github-readme-stats-nine-coral-57.vercel.app/api?username=psykoss&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
+
+
+]
 
 # Socials
 [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://)
