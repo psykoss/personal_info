@@ -3,7 +3,7 @@
 
 # I’m currently learning 
 <division>
- FLASK <img align="left" alt="Flask" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" style="padding-right:10px;" />
+ FLASK [<img align="left" alt="Flask" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" style="padding-right:10px;" />]
 
 </division>
 
