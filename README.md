@@ -2,7 +2,10 @@
 <h3 align="center">A Data science Student at UCLM3 </h3>
 
 <h2>I’m currently learning </h2>
+<division>
  FLASK <img align="left" alt="Flask" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" style="padding-right:10px;" />
+
+</division>
 
 # Tech Stack
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
