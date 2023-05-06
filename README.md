@@ -3,7 +3,7 @@
 <h3 align="center">All of my projects are available at [My Portfolio](https://) </h3> 
 
 
-<h2>I’m currently learning <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" style="padding-right:10px;" /></h2>
+<h2>I’m currently learning <img align="left" alt="Flask" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" style="padding-right:10px;" /></h2>
 
 - 
 -
