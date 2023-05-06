@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Daniel Totolici</h1>
 <h3 align="center">A Data science Student at UCLM3 </h3>
 
-- I’m currently learning ![Flask](https://img.shields.io/badge/flask-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) 
+<h2>I’m currently learning ![Flask]</h2>
 - All of my projects are available at [My Portfolio](https://)
 
 - How to reach me [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mail@psykoss115.com)
@@ -18,8 +18,8 @@
 <details> 
     <summary>:zap: GithubStats </summary>
     
-    <img align="center" src="https://github-readme-stats-nine-coral-57.vercel.app/api/top-langs/?username=psykoss&layout=compact&langs_count=10&hide=jupyter%20notebook&theme=dark&hide_border=true" /> 
-    <img align="center" src="https:///github-readme-stats-nine-coral-57.vercel.app/api?username=psykoss&show_icons=true&theme=dark&locale=en&hide_border=true" alt="Daniel Totolici" /> |
+        <img align="center" src="https:///github-readme-stats-nine-coral-57.vercel.app/api/top-langs/?username=psykoss&layout=compact&langs_count=10&hide=jupyter%20notebook&theme=dark&hide_border=true" /> 
+        <img align="center" src="https:///github-readme-stats-nine-coral-57.vercel.app/api?username=psykoss&show_icons=true&theme=dark&locale=en&hide_border=true" alt="Daniel Totolici" /> |
 </details>
 
 # Socials
