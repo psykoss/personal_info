@@ -15,8 +15,13 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 # GitHub Stats
-<img align="center" src="https:///github-readme-stats-nine-coral-57.vercel.app/api/top-langs/?username=psykoss" /> 
-<img align="center" src="https:///github-readme-stats-nine-coral-57.vercel.app/api?username=psykoss&show_icons=true&theme=dark&locale=en&hide_border=true" alt="Daniel Totolici" /> 
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-nine-coral-57.vercel.app/api?username=psykoss&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
+</details>
 
 # Socials
 [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://)
