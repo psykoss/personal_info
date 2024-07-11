@@ -6,7 +6,7 @@
 
 # I’m currently learning
 <img align="left" alt="tf" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" style="padding-right:10px;" />
-<img align="left" alt="django" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" style="padding-right:10px;" />
+<img align="left" alt="django" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plainsvg" style="padding-right:10px;" />
 <img align="left" alt="react" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 
 <br>
@@ -19,25 +19,13 @@
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="react" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:10px;" />
+<img align="left" alt="react" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" style="padding-right:10px;" />
 
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 
 # Abilities
-
-### **Programming Languages**
-- **Python**: Proficient in data manipulation, analysis, and machine learning libraries (e.g., Pandas, NumPy, Scikit-learn, TensorFlow).
-- **R**: Experienced in statistical analysis and visualization (e.g., Dplyr, ggplot2).
-- **SQL**: Skilled in querying databases and performing complex data manipulations.
 
 ### **Data Manipulation and Analysis**
 - **Pandas**: Expert in data cleaning, manipulation, and preprocessing.
@@ -60,40 +48,32 @@
 - **Convolutional Neural Networks (CNNs)**: Expertise in image classification and object detection.
 - **Recurrent Neural Networks (RNNs)**: Experienced in sequence modeling and time series prediction.
 - **Natural Language Processing (NLP)**: Skilled in text processing, sentiment analysis, and language models.
+- **Recommendations Systems(REC-SYS)**: Skilled in recommendations systems, collaborative filtering and content based filtering.
 
 ### **Statistical Analysis**
 - **Descriptive Statistics**: Proficient in summarizing and describing data.
-- **Inferential Statistics**: Skilled in hypothesis testing, confidence intervals, and regression analysis.
-
-### **Databases**
-- **SQL Databases**: Experienced with relational databases such as MySQL, PostgreSQL.
-- **NoSQL Databases**: Knowledgeable in document-oriented databases like MongoDB.
-
-### **Data Engineering**
-- **ETL Pipelines**: Proficient in designing and implementing Extract, Transform, Load (ETL) processes.
-- **Big Data Technologies**: Experienced with Hadoop, Spark for processing large datasets.
-
-### **Signal Processing**
-- **Fourier Transform**: Skilled in analyzing frequency components of signals.
-- **Wavelet Transform**: Experienced in multi-resolution analysis and signal decomposition.
-
-### **Data Wrangling**
-- **Data Cleaning**: Expertise in handling missing values, outliers, and data inconsistencies.
-- **Feature Engineering**: Skilled in creating and selecting relevant features for modeling.
-
-### **Model Evaluation and Validation**
-- **Cross-Validation**: Proficient in assessing model performance using cross-validation techniques.
-- **Metrics**: Knowledgeable in using evaluation metrics such as accuracy, precision, recall, F1-score, ROC-AUC.
-
-### **Tools and Platforms**
-- **Jupyter Notebook**: Experienced in interactive computing and data analysis.
-- **Git**: Proficient in version control and collaboration.
-- **Docker**: Skilled in containerization and deployment of applications.
-- **AWS**: Experienced with cloud computing services for scalable data processing and storage.
+- **Inferential Statistics**: Skilled in hypothesis testing, confidence intervals, and regression analysis, ANOVA.
+- **Probability**: Skilled in probability, stochastic processes, markov chains.
+- 
+### **Mathematics**
+- **Statistics**
+- **Probability**
+- **Calculus**
+- **Linear Algebra**
+- **Numerical methods**
+- **Statistical processing for signals**
+- **Signals and Systems**
+- **Cryptography**
+- **Discrete mathematics**
+- **Discrete mathematics**
 
 ### **Additional Skills**
 - **A/B Testing**: Proficient in designing and analyzing A/B tests for experimental evaluation.
 - **Time Series Analysis**: Skilled in analyzing and forecasting temporal data.
+- **Predictive Modelling**: Skilled in creating linear models , multiple variable linear models, logistic regression.
+- **Web Development**: Skilled in creating webs with HTML, CSS and JS/React
+- **Backend**: Skilled in creating RestfulAPIs with Django/Flask.
+- **Data Structures and Algorithm**: Skilled in using Data Structures and create efficient algorithms.
 - **Optimization**: Experienced in mathematical optimization techniques for model tuning.
 
 # Socials
